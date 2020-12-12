@@ -18,5 +18,5 @@ You'll want to be comfortable with below theories:
 * Framework: Pytorch
 
 # Result:
-### Achived 94.288% accuracy on 22688 Test Dataset with 2 CNN layers.
-### 70s items identified incorrectly among a 5000 beatch size Test Images
+#### Achived 94.288% accuracy on 22688 Test Dataset with 2 CNN layers.
+#### 70s items identified incorrectly among a 5000 beatch size Test Images
