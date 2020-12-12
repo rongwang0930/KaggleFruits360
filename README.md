@@ -19,4 +19,4 @@ You'll want to be comfortable with below theories:
 
 # Result:
 ### Achived 94.288% accuracy on 22688 Test Dataset with 2 CNN layers.
-## 74 items identified incorrectly among a 5000 beatch size Test Images
+### 70s items identified incorrectly among a 5000 beatch size Test Images
